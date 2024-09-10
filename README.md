@@ -1,16 +1,33 @@
 ## Hi there 👋
+### I'm Emily, a Software Engineer passionate about Empowering Women in Technology! 
 
-<!--
-**emilykwood/emilykwood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I've been programming professionally for 3yrs. My first role was C#, .Net and JavaScript, and my current role is MediaTech in onscreen graphics, utilising advanced JavaScript to build on-air sports graphics that can be played out cross-platform on a variety of devices and resolutions!
 
-Here are some ideas to get you started:
+### I'm always striving to upskill and building projects is my favourite way to do that! 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌟 In my free time, I have helped 300+ women in their coding journeys with Code First Girls. 🚀
+
+### 💬 Engaged with schools to inspire students who may otherwise feel excluded from STEM futures.
+
+### 👩‍💻 Find me [@yourTechBigSister](https://www.instagram.com/yourTechBigSister) on Instagram where I share resources and advice for those looking to combine their passion for Tech **AND** the Arts.
+
+### 📚 BA in Literature | 🎬 MA in Screenwriting
+
+### 🌏 Worked in Australia, South Korea, Japan, and the UK.
+
+### 🔍 Always seeking new technical challenges and growth opportunities.
+
+Let's connect and drive change together in the tech world! 💪
+
+---
+
+## Programming Languages:
+- 📝 JavaScript
+- 📝 C#
+- 📝 Python
+
+
+- 🔭 I’m currently working on ... My online portfolio website in React
+- 🌱 I’m currently learning ... C++
+
+
