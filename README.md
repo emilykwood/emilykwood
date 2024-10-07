@@ -30,4 +30,4 @@ Let's connect and drive change together in the tech world! 💪
 - 🔭 I’m currently working on ... My online portfolio website in React
 - 🌱 I’m currently learning ... C++
 
-
+[![An image of @emilykwood's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/emilykwood)](https://holopin.io/@emilykwood)
