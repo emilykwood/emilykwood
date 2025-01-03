@@ -27,7 +27,7 @@ Let's connect and drive change together in the tech world! 💪
 - 📝 Python
 
 
-- 🔭 I’m currently working on ... My online portfolio website in React
-- 🌱 I’m currently learning ... C++
+- 🔭 I’m currently working on ... Building a fun learning project- afull-stack app with a python/Flask/FlaskCors backend and a TypeScript/ React frontend
+- 🌱 I’m currently learning ... TypeScript
 
 [![An image of @emilykwood's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/emilykwood)](https://holopin.io/@emilykwood)
