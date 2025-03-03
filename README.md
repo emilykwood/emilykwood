@@ -9,8 +9,6 @@
 
 ### 💬 Engaged with schools to inspire students who may otherwise feel excluded from STEM futures.
 
-### 👩‍💻 Find me [@yourTechBigSister](https://www.instagram.com/yourTechBigSister) on Instagram where I share resources and advice for those looking to combine their passion for Tech **AND** the Arts.
-
 ### 📚 BA in Literature | 🎬 MA in Screenwriting
 
 ### 🌏 Worked in Australia, South Korea, Japan, and the UK.
